@@ -48,8 +48,10 @@ Editar PATH --->
 
 
 Guardar el Script en: C:\Programas\apache-jmeter-5.6.3\bin\scripts\Test_Plan.jmx
+
 Configurar los Hilos de la ejecución
-Run del Script: 
+
+Run del Script
 
 
 
